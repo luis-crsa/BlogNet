@@ -98,3 +98,18 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.not-found h2 {
+  font-size: 20px;
+  color: #1E90FF;
+  margin-bottom: 20px;
+}
+
+.not-found p {
+  margin-bottom: 20px;
+}
+
+.not-found a {
+  color: #1E90FF;
+  text-decoration: none;
+}
