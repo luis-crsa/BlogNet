@@ -82,7 +82,7 @@
   color: #1E90FF;
   margin-bottom: 30px;
 }
-.create input, .create textarea, .create select {
+.create input, .create textarea {
   width: 100%;
   padding: 6px 10px;
   margin: 10px 0;
